@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "menu": "Burger",
+        "category": "Mains",
+        "price": 5.99,
+        "is_available": true,
+        "preparation_time": 10
+    },
+    {
+        "id": 2,
+        "menu": "Fries",
+        "category": "Sides",
+        "price": 2.50,
+        "is_available": true,
+        "preparation_time": 5
+    },
+    {
+        "id": 3,
+        "menu": "Tapsilog",
+        "category": "Mains",
+        "price": 7.99,
+        "is_available": true,
+        "preparation_time": 10
+    },
+    {
+        "id": 4,
+        "menu": "Siopao",
+        "category": "Sides",
+        "price": 3.99,
+        "is_available": false,
+        "preparation_time": 5
+    }
+]
+
